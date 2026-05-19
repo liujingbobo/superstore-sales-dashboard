@@ -22,7 +22,7 @@ The goal of this project is to explore:
 
 ## Tableau Dashboard
 
-[View Interactive Dashboard](你的tableau链接)
+[View Interactive Dashboard](https://public.tableau.com/views/SuperstoreSalesProfitDashboard_17792104892810/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Key Insights
 
@@ -37,7 +37,3 @@ The goal of this project is to explore:
 - `dashboard.png` — dashboard screenshot
 - `dashboard.twbx` — Tableau workbook
 - `superstore_cleaned.csv` — cleaned dataset
-
-## Dashboard Preview
-
-![Dashboard](dashboard.png)
